@@ -1,3 +1,7 @@
 hekllo this is mahmud
 
+<<<<<<< HEAD
 hi this is alfi, nice to meet you too!
+=======
+hi this is aishwarya
+>>>>>>> cd8f011dfd689fb1c500c7185c3f70bfbdc36fae
